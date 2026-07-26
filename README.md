@@ -1,1 +1,1 @@
-# JAVA_2
+# JAVA inheritance and package
